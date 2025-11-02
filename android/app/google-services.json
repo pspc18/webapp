@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142955933515",
+    "project_id": "kotacareer-92d48",
+    "storage_bucket": "kotacareer-92d48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142955933515:android:8e6b3ffdb27a1c7d4f02ce",
+        "android_client_info": {
+          "package_name": "com.rukmani.kotacareer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AR-i_ZIFz5mUDrFWKGoPhMCvTt_YQ1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
